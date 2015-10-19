@@ -1,0 +1,5 @@
+<?php get_header(); ?>
+
+  <p>You are using the Full Width Template.</p>
+
+<?php get_footer(); ?>
